@@ -1,14 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Enkrata/.github/main/profile/brand/lockup-bone.svg">
-  <img alt="Enkrata"
-       src="https://raw.githubusercontent.com/Enkrata/.github/main/profile/brand/lockup-pine.svg"
+          srcset="https://raw.githubusercontent.com/kyparis-studio/.github/main/profile/brand/lockup-bone.svg">
+  <img alt="Kyparis"
+       src="https://raw.githubusercontent.com/kyparis-studio/.github/main/profile/brand/lockup-pine.svg"
        width="300">
 </picture>
 
 ### Hard work on things that matter.
 
-Enkrata is Kevin Holloway's development studio — games, productivity apps, and
+Kyparis is Kevin Holloway's development studio — games, productivity apps, and
 fitness projects, built one at a time and shipped.
 
 The name is coined from the Greek *enkrateia* (ἐγκράτεια), the Stoic virtue of
