@@ -1,23 +1,26 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Enkrata/.github/main/profile/brand/lockup-bone.svg">
-  <img alt="Enkrata"
-       src="https://raw.githubusercontent.com/Enkrata/.github/main/profile/brand/lockup-pine.svg"
+          srcset="https://raw.githubusercontent.com/kyparis-studio/.github/main/profile/brand/lockup-limestone.svg">
+  <img alt="Kyparis"
+       src="https://raw.githubusercontent.com/kyparis-studio/.github/main/profile/brand/lockup-night.svg"
        width="300">
 </picture>
 
 ### Hard work on things that matter.
 
-Enkrata is Kevin Holloway's development studio — games, productivity apps, and
-fitness projects, built one at a time and shipped.
+Kyparis is a small studio that builds games, productivity apps, and business
+software, and ships them. It is Kevin Holloway's studio, from Gainesville, Florida.
 
-The name is coined from the Greek *enkrateia* (ἐγκράτεια), the Stoic virtue of
-self-mastery: internal locus of control, and the conviction that what you can
-control is enough to build something worth keeping.
+The name is from the Greek *kyparissos* (κυπάρισσος), the cypress: the bald
+cypress of the swamps around Gainesville, rooted in water and standing for
+centuries. A cypress does not choose the flood; it chooses to hold its ground,
+and it keeps growing.
 
-**In beta** — [Undercrew](https://enkrata.github.io/undercrew/), a
+**In beta**: [Undercrew](https://kyparis-studio.github.io/undercrew/), a
 Terraria-deep 2D sandbox you never directly play. You run the crew of agents
 that plays it, from your phone. In beta on TestFlight.
 
-Most repos here are private. [enkrata.github.io](https://enkrata.github.io) is
+Most repos here are private. [The studio site](https://kyparis-studio.github.io) is
 the front door.
+
+`29°39′N  82°19′W`
