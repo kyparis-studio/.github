@@ -16,11 +16,11 @@ cypress of the swamps around Gainesville, rooted in water and standing for
 centuries. A cypress does not choose the flood; it chooses to hold its ground,
 and it keeps growing.
 
-**In beta**: [Undercrew](https://enkrata.github.io/undercrew/), a
+**In beta**: [Undercrew](https://kyparis-studio.github.io/undercrew/), a
 Terraria-deep 2D sandbox you never directly play. You run the crew of agents
 that plays it, from your phone. In beta on TestFlight.
 
-Most repos here are private. [The studio site](https://enkrata.github.io) is
+Most repos here are private. [The studio site](https://kyparis-studio.github.io) is
 the front door.
 
 `29°39′N  82°19′W`
